@@ -10,8 +10,10 @@ Size   | Name                    | Description
  
 ## spi-tdk-icm-20648.sal
 First bytes of communication:
+
 ![image](https://github.com/silabs-MarkOW/Saleae/assets/41750418/a29ae4a4-b495-49b0-8d69-07beacf0ebbb)
 
 SPI analyzer configured as 
+
 ![image](https://github.com/silabs-MarkOW/Saleae/assets/41750418/67b287de-820e-4fce-9ba0-7ecb537008e5)
 
