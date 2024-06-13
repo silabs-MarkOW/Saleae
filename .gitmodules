@@ -1,0 +1,3 @@
+[submodule "BGAPI_Parser"]
+	path = BGAPI_Parser
+	url = https://github.com/silabs-MarkOW/BGAPI_Parser.git
